@@ -2,6 +2,7 @@
 Este ejercicio requiere que se importe la libreria matplotlib y numpy
 Esto se realiza desde la terminal conel comando
 pip install matplotlib
+
 """
 
 from calculadora import CalculadoraMaizoro
